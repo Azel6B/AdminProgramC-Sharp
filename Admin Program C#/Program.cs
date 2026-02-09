@@ -10,7 +10,6 @@ namespace Admin_Program_C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wekker");
         }
     }
 }
