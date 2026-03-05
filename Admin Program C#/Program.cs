@@ -10,7 +10,7 @@ namespace Admin_Program_C_
     {
         static void Main(string[] args)
         {
-             // Create a new user
+            // Create a new user
             User myUser = new User("Admin", "Kalebaan 76", "adadadadad@gmail.com", "06 17385904", 27);
             Console.WriteLine($"Created user: {myUser.Name}");
             Console.WriteLine($"Created Email: {myUser.Email}");
